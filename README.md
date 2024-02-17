@@ -1,0 +1,1 @@
+Bu depo, Udemy'de Emre Altunbilek'in verdiği "Sıfırdan Zirveye Adım Adım Bol Uygulamalı Java Kursu" kapsamında öğrendiğim temel Java programlama dilindeki kodları içermektedir. Bu kodlar, kurs boyunca gerçekleştirilen örnekleri ve projeleri içermektedir.
